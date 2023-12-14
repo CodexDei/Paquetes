@@ -16,6 +16,9 @@ public class EjemploPaquetesPrueba {
 //        com.codexdei.Utileria.imprimir("hola");
 
         //haciendo un import de la clase
+//        Utileria.imprimir("Hola");
+
+        //haciendo un import static
         imprimir("Hola");
     }
 }
